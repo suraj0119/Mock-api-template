@@ -12,8 +12,12 @@
 
 const express = require('express');
 const fs = require('fs');
+const cors = require('cors'); // Import the cors middleware
 const app = express();
 const port = process.env.PORT || 4000;
+
+// Use the cors middleware
+app.use(cors());
 
 app.get('/', (req, res) => {
   fs.readFile('db.json', 'utf8', (err, data) => {
