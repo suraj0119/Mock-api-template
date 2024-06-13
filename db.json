@@ -1,0 +1,86 @@
+{
+    "songs": [
+      {
+        "title": "Tum Hi Ho",
+        "artist": "Arijit Singh",
+        "albumArt":"./logos/Tum-Hi-Ho-Lyricw-533x261.jpg",
+        "album": "Aashiqui 2",
+        "duration": "4:22",
+        "genre": "Romantic",
+        "url": "./songs/tum_hi_ho.mp3"
+      },
+      {
+
+        "title": "Sajani Re",
+        "artist": "Arijit Singh",
+        "albumArt":"./logos/sajani_re.jpg",
+        "album": "Ae Dil Hai Mushkil",
+        "duration": "4:49",
+        "genre": "Romantic",
+        "url": "./songs/Sajani re.mp3"
+      },
+      {
+
+        "title": "Humdard",
+        "artist": "Amar Arshi, Badshah, Neha Kakkar",
+        "albumArt":"./logos/Humdard.jpg",
+        "album": "Baar Baar Dekho",
+        "duration": "3:06",
+        "genre": "Pop",
+        "url": "./songs/Humdard.mp3"
+      },
+      {
+
+        "title": "kesariya",
+        "artist": "Atif Aslam",
+        "albumArt":"./logos/kesariya-brahmastra.jpg",
+        "album": "Tiger Zinda Hai",
+        "duration": "4:19",
+        "genre": "Romantic",
+        "url": "./songs/Kesariya.mp3"
+      },
+      {
+
+        "title": "Nile Nile Ambar Par",
+        "artist": "kishor kumar",
+        "albumArt":"./logos/kishore-kumar.jpg",
+        "album": "War",
+        "duration": "5:02",
+        "genre": "Dance",
+        "url": "./songs/Nile_Nile_Ambar_Par.mp3"
+      },
+
+      {
+
+        "title": "Dil Diyan Gallan",
+        "artist": "Atif Aslam",
+        "albumArt":"./logos/Dil-Diyan-Gallan.jpg",
+        "album": "War",
+        "duration": "4.20",
+        "genre": "Dance",
+        "url": "./songs/Dil_di_ya_Galla.mp3"
+      },
+
+      {
+
+        "title": "Let_Me_Love_You",
+        "artist": "Justin Biber",
+        "albumArt":"./logos/Let_Me_Love_You.jpg",
+        "album": "War",
+        "duration": "5:02",
+        "genre": "Dance",
+        "url": "./songs/Let_Me_Love_You.mp3"
+      },
+
+      {
+        "title": "Bekhayali",
+        "artist": "Arijit Singh",
+        "albumArt":"./logos/Bekhayali.jpg",
+        "album": "Aashiqui 2",
+        "duration": "4:22",
+        "genre": "Romantic",
+        "url": "./songs/Bekhayali.mp3"
+      }
+    ]
+  }
+  
