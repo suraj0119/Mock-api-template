@@ -119,6 +119,22 @@
         "genre": "Romantic",
         "songurl": "./songs/Rabba_Mereya.mp3"
       }
-    ]
+    ],
+    "users": [
+    {
+      "username": "saiful",
+      "email": "s.islam20000@gmail.com",
+      "password": "1234",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "username": "suraj",
+      "email": "surajkamble1319@gmail.com",
+      "password": "Suraj@1234",
+      "gender": "Male",
+      "id": 2
+    }
+  ]
   }
   
