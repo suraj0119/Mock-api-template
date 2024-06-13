@@ -3,7 +3,7 @@
       {
         "name": "Tum Hi Ho",
         "artist": "Arijit Singh",
-        "songposterurl":"./logos/Tum-Hi-Ho-Lyricw-533x261.jpg",
+        "songposterurl":"https://wallpapercave.com/wp/wp7718037.jpg",
         "album": "Aashiqui 2",
         "language": "Hindi",
         "category": "item",
@@ -15,7 +15,7 @@
 
         "name": "Sajani Re",
         "artist": "Arijit Singh",
-        "songposterurl":"./logos/sajani_re.jpg",
+        "songposterurl":"https://i.ytimg.com/vi/Y3bSjJU9leE/maxresdefault.jpg",
         "album": "Ae Dil Hai Mushkil",
         "language": "Hindi",
         "category": "item",    
@@ -27,7 +27,7 @@
 
         "name": "Humdard",
         "artist": "Amar Arshi, Badshah, Neha Kakkar",
-        "songposterurl":"./logos/Humdard.jpg",
+        "songposterurl":"https://melodytracks.com/image/cache/catalog/karaoke/arijit_singh/humdard-jo-tu-mera-karaoke-mp3-ek-villain-arijit-singh-2418-500x500.gif",
         "album": "Baar Baar Dekho",
         "language": "Hindi",
         "category": "item",    
@@ -39,7 +39,7 @@
 
         "name": "kesariya",
         "artist": "Atif Aslam",
-        "songposterurl":"./logos/kesariya-brahmastra.jpg",
+        "songposterurl":"https://i.scdn.co/image/ab67616d0000b273358193d702a21397291432ef",
         "album": "Tiger Zinda Hai",
         "language": "Hindi",
         "category": "item",    
@@ -51,7 +51,7 @@
 
         "name": "Nile Nile Ambar Par",
         "artist": "kishor kumar",
-        "songposterurl":"./logos/kishore-kumar.jpg",
+        "songposterurl":"https://i.pinimg.com/originals/8b/82/c6/8b82c61f2105fcca06e797bbeb6b350d.jpg",
         "album": "War",
         "language": "Hindi",
         "category": "item",    
@@ -64,7 +64,7 @@
 
         "name": "Dil Diyan Gallan",
         "artist": "Atif Aslam",
-        "songposterurl":"./logos/Dil-Diyan-Gallan.jpg",
+        "songposterurl":"https://www.jagranimages.com/images/03_12_2017-dil_diyan.jpg",
         "album": "War",
         "language": "Hindi",
         "category": "item",    
@@ -77,7 +77,7 @@
 
         "name": "Let_Me_Love_You",
         "artist": "Justin Biber",
-        "songposterurl":"./logos/Let_Me_Love_You.jpg",
+        "songposterurl":"https://img.wattpad.com/cover/312618931-352-k634671.jpg",
         "album": "War",
         "language": "Hindi",
         "category": "item",    
@@ -89,13 +89,35 @@
       {
         "name": "Bekhayali",
         "artist": "Arijit Singh",
-        "songposterurl":"./logos/Bekhayali.jpg",
+        "songposterurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYUdgDR13fzTgzLKGQCvLZCttV0he6uIDaQ&s",
         "album": "Aashiqui 2",
         "language": "Hindi",
         "category": "item",    
         "Duration": "4:22",
         "genre": "Romantic",
         "songurl": "./songs/Bekhayali.mp3"
+      },
+      {
+        "name": "Halki_Halki_Si",
+        "artist": "Arijit Singh",
+        "songposterurl":"https://www.prokerala.com/images/800x600/halki-halki-si-song-poster-is-out-feat-munwar-and-hina.jpg",
+        "album": "Aashiqui 2",
+        "language": "Hindi",
+        "category": "item",    
+        "Duration": "4:22",
+        "genre": "Romantic",
+        "songurl": "./songs/Halki_Halki_Si.mp3"
+      },
+      {
+        "name": "Rabba_Mereya",
+        "artist": "Arijit Singh",
+        "songposterurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaBgOApIOKtn-8PmH0YWLT3t0ipjl4MZ6SA&s",
+        "album": "Aashiqui 2",
+        "language": "Hindi",
+        "category": "item",    
+        "Duration": "4:22",
+        "genre": "Romantic",
+        "songurl": "./songs/Rabba_Mereya.mp3"
       }
     ]
   }
